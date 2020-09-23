@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="hallo">Hello</string>
+    <string name="knop1">Knop1</string>
+    <string name="knop2">Knop2</string>
+    <string name="button_clicked">Button clicked</string>
+    <string name="toast_sorry">Not implemented yet, sorry :(</string>
+</resources>
